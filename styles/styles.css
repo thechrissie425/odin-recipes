@@ -24,7 +24,7 @@ wrapper {
 }
 
 ul {
-  margin: 1px 0 1px 0 solid hsl(56, 9%, 25%);
+  border: 1px 0 1px 0 solid hsl(56, 9%, 25%);
   padding: 10px 0;
 }
 
