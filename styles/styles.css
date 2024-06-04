@@ -9,7 +9,7 @@ body {
 wrapper {
   display: block;
   max-width: 500px;
-  background-color: antiquewhite;
+  background-color: hsl(56, 9%, 90%);
   padding: 40px;
   margin: 20px auto;
 }
