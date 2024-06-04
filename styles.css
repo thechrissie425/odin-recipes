@@ -1,0 +1,23 @@
+body {
+  background-color: hsl(56, 9%, 78%);
+  color: hsl(56, 9%, 25%);
+  font-size: 14px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1, h2, h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 24px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 16px;
+}
