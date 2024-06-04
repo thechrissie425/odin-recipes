@@ -6,6 +6,15 @@ body {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+a {
+  text-decoration: none;
+  color: hsl(60, 93%, 17%);
+}
+
+a :hover {
+  text-decoration: underline;
+}
+
 wrapper {
   display: block;
   max-width: 500px;
