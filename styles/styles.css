@@ -3,7 +3,11 @@ body {
   color: hsl(56, 9%, 25%);
   font-size: 16px;
   line-height: 140%;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+wrapper {
+  width: 300px;
 }
 
 h1, h2, h3 {
